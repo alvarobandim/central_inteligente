@@ -9,3 +9,4 @@ central_inteligente.db
 dist/
 build/
 *.spec
+*.csv
