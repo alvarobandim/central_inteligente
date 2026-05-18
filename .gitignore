@@ -1,0 +1,11 @@
+# Ignora arquivos compilados e lixo do Python
+__pycache__/
+*.pyc
+
+# Ignora o banco de dados local (cada usuário cria o seu)
+central_inteligente.db
+
+# Ignora a pasta do executável pesado
+dist/
+build/
+*.spec
